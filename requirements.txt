@@ -3,3 +3,4 @@ gunicorn
 pdf2docx
 python-docx
 PyMuPDF
+fpdf
